@@ -1,8 +1,27 @@
 .container {
   background-color: yellowgreen;
   height: 100vh;
+  display: flex;
 }
 
 .navbar {
   background-color: lightskyblue;
+}
+
+.content {
+  background-color: lime;
+}
+
+@media screen and (max-width: 768px);
+ {
+  .container {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 400px);
+ {
+  .container {
+    flex-direction: column;
+  }
 }
