@@ -8,6 +8,7 @@
   background-color: rgb(71, 248, 35);
   margin: 10px;
   color: azure;
+  padding: 1rem;
 }
 
 .content {
@@ -18,14 +19,17 @@
 
 .header {
   background-color: darkred;
+  padding: 1rem;
 }
 
 .about {
   background-color: indigo;
+  padding: 1rem;
 }
 
 .projects {
   background-color: navy;
+  padding: 1rem;
 }
 @media screen and (max-width: 768px) {
   .container {
