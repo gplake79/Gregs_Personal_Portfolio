@@ -11,11 +11,9 @@
 
 .content {
   background-color: lime;
-}
-
-.main {
   margin: 5px;
 }
+
 @media screen and (max-width: 768px) {
   .container {
     flex-direction: column;
