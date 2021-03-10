@@ -16,6 +16,17 @@
   color: azure;
 }
 
+.header {
+  background-color: darkred;
+}
+
+.about {
+  background-color: indigo;
+}
+
+.projects {
+  background-color: navy;
+}
 @media screen and (max-width: 768px) {
   .container {
     flex-direction: column;
