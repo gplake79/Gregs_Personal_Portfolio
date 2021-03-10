@@ -13,9 +13,8 @@
 
 .content {
   background-color: rgb(255, 0, 0);
-  margin: 10px;
   color: azure;
-  width: 90%;
+  width: 100%;
   flex-grow: 1;
 }
 
