@@ -16,6 +16,7 @@
   margin: 10px;
   color: azure;
   width: 90%;
+  flex-grow: 1;
 }
 
 .header {
