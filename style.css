@@ -1,17 +1,19 @@
 .container {
-  background-color: yellowgreen;
+  background-color: rgb(50, 78, 205);
   height: 100vh;
   display: flex;
 }
 
 .navbar {
-  background-color: lightskyblue;
+  background-color: rgb(71, 248, 35);
   margin: 10px;
+  color: azure;
 }
 
 .content {
-  background-color: lime;
+  background-color: rgb(255, 0, 0);
   margin: 5px;
+  color: azure;
 }
 
 @media screen and (max-width: 768px) {
