@@ -50,6 +50,14 @@
   margin-left: 1rem;
   margin-right: 1rem;
 }
+
+.card {
+  height: 200px;
+  background-color: snow;
+  margin: 1rem;
+  color: black;
+  padding: 1rem;
+}
 @media screen and (max-width: 768px) {
   .container {
     flex-direction: column;
