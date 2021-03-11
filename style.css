@@ -11,6 +11,11 @@
   padding: 1rem;
   width: 200px;
   color: black;
+  background-image: linear-gradient(
+    to top,
+    rgba(255, 255, 0, 0.5),
+    rgba(0, 0, 255, 0.5)
+  );
 }
 
 .content {
@@ -29,6 +34,11 @@
   margin-right: 1rem;
   text-align: center;
   color: black;
+  background-image: linear-gradient(
+    to top,
+    rgba(255, 255, 0, 0.5),
+    rgba(0, 0, 255, 0.5)
+  );
 }
 
 .contact {
@@ -40,6 +50,11 @@
   margin-right: 1rem;
   text-align: center;
   color: black;
+  background-image: linear-gradient(
+    to top,
+    rgba(255, 255, 0, 0.5),
+    rgba(0, 0, 255, 0.5)
+  );
 }
 .about {
   background-color: darkcyan;
@@ -48,6 +63,11 @@
   margin-left: 1rem;
   margin-right: 1rem;
   color: black;
+  background-image: linear-gradient(
+    to top,
+    rgba(255, 255, 0, 0.5),
+    rgba(0, 0, 255, 0.5)
+  );
 }
 
 .projects {
@@ -57,6 +77,11 @@
   margin-left: 1rem;
   margin-right: 1rem;
   color: black;
+  background-image: linear-gradient(
+    to top,
+    rgba(255, 255, 0, 0.5),
+    rgba(0, 0, 255, 0.5)
+  );
 }
 
 .card {
@@ -67,6 +92,11 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  background-image: linear-gradient(
+    to top,
+    rgba(255, 255, 0, 0.5),
+    rgba(0, 0, 255, 0.5)
+  );
 }
 
 @media screen and (max-width: 768px) {
