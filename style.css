@@ -55,7 +55,7 @@
 }
 
 .card {
-  height: 200px;
+  height: 100%;
   background-color: snow;
   margin: 1rem;
   color: black;
