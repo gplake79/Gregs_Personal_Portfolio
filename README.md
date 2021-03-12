@@ -15,7 +15,7 @@ Here I have created my own personal portfolio while following the guidelines reg
 - WHEN they are presented with my first application THEN that application's image is larger in size than the others.
 - WHEN they click on the images of the applications THEN they are taken to that deployed application.
 - WHEN they resize the page or view the site on various screens and devices
-  THEN they am presented with a responsive layout that adapts to their viewport.
+  THEN they are presented with a responsive layout that adapts to their viewport.
 
 ## Getting started
 
