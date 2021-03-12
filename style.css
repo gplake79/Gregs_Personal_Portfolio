@@ -84,7 +84,8 @@
   );
 }
 
-.card {
+.card1 {
+  width: 70%;
   margin: 0px 25px 25px 25px;
   border: 2px solid black;
   padding: 25px;
@@ -100,6 +101,25 @@
   text-align: center;
 }
 
+.card {
+  width: 40%;
+  margin: 0px 25px 25px 25px;
+  border: 2px solid black;
+  padding: 25px;
+  flex: 0 0 400px;
+  display: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-image: linear-gradient(
+    to top,
+    rgba(255, 255, 0, 0.5),
+    rgba(0, 0, 255, 0.5)
+  );
+  text-align: center;
+}
+.card-image-container {
+  display: inline;
+}
 @media screen and (max-width: 768px) {
   .container {
     flex-direction: column;
