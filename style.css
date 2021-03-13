@@ -1,3 +1,4 @@
+/* whole page container css styling */
 .container {
   background-color: black;
   height: 100%;
@@ -5,7 +6,7 @@
   font-style: italic;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
-
+/* navbar section css styling */
 .navbar {
   background-color: darkcyan;
   margin: 10px;
@@ -19,14 +20,14 @@
     rgba(0, 0, 255, 0.5)
   );
 }
-
+/* content section css styling */
 .content {
   background-color: rgb(0, 0, 0);
   color: azure;
   width: 100%;
   flex-grow: 1;
 }
-
+/* header section css styling */
 .header {
   background-color: darkcyan;
   padding: 1rem;
@@ -42,7 +43,7 @@
     rgba(0, 0, 255, 0.5)
   );
 }
-
+/* contact section css styling */
 .contact {
   background-color: darkcyan;
   padding: 1rem;
@@ -58,6 +59,7 @@
     rgba(0, 0, 255, 0.5)
   );
 }
+/* about section css styling */
 .about {
   background-color: darkcyan;
   padding: 1rem;
@@ -71,7 +73,7 @@
     rgba(0, 0, 255, 0.5)
   );
 }
-
+/* projects section css stylings */
 .projects {
   background-color: darkcyan;
   padding: 1rem;
@@ -86,12 +88,12 @@
     rgba(0, 0, 255, 0.5)
   );
 }
-
+/* projects container section css stylings */
 .projects-container {
   display: flex;
   flex-wrap: wrap;
 }
-
+/* projects section main project box css stylings */
 .card1 {
   width: 71%;
   margin: 0px 25px 25px 25px;
@@ -104,7 +106,7 @@
   );
   text-align: center;
 }
-
+/* projects section sub-projects ("Coming soon!") css stylings */
 .card2 {
   width: 30%;
   margin: 0px 25px 25px 25px;
@@ -117,12 +119,13 @@
   );
   text-align: center;
 }
+/* media queries section */
 @media screen and (max-width: 768px) {
   .container {
     flex-direction: column;
   }
 }
-
+/* media queries section */
 @media screen and (max-width: 400px) {
   .container {
     flex-direction: column;
