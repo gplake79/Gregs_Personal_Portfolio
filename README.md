@@ -1,6 +1,6 @@
 # Greg Lake's Personal Portfolio
 
-Click [here](https://github.com/gplake79/Gregs_Personal_Portfolio) to view this project on GitHub pages.
+Click [here](https://gplake79.github.io/Gregs_Personal_Portfolio/) to view this project on GitHub pages.
 
 ## Description
 
